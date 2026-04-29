@@ -1,0 +1,24 @@
+# Eclipse workspace metadata
+.metadata/
+
+# Maven build output
+target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
